@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dl939u.lowdepositcasino.co.nz/sitemap.xml
